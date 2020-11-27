@@ -11,10 +11,14 @@
 /* ******* */
 
 @font-face {
-    font-family: revoxa;
-    src: url(Revoxa.ttf);
-    font-family: lato;
+    
+    font-family: "lato";
     src: url(Lato-Regular.ttf);
+}
+
+@font-face {
+    font-family: "revoxa";
+    src: url(Revoxa.ttf);
 }
 
 /* ********* */
