@@ -4,6 +4,6 @@ I've added the original pic
 
 
 
-I don't know why but the live preview of the page I've made was ruined so I had to hosted it on netlify and it works fine there .
-you can check it out :
-https://l0gin-f0rm.netlify.app
+live preview : https://nazaneyn.github.io/login-form/
+
+Also hosted it on netlify: https://l0gin-f0rm.netlify.app
